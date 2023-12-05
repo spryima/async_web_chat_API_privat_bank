@@ -18,3 +18,23 @@ This project is an asynchronous web chat application integrated with real-time c
 ```bash
 git clone https://github.com/your-username/async-web-chat-api-privat-bank
 cd async-web-chat-api-privat-bank
+```
+
+**Install dependencies with Poetry**:
+```bash
+poetry install
+```
+
+**Install dependencies with Poetry**:
+```bash
+poetry install
+```
+
+**Start the server**:
+```bash
+poetry run python main.py
+```
+
+Open index.html in your browser
+
+
